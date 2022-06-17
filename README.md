@@ -15,7 +15,7 @@ Com o repositório clonado e dentro de um terminal:
 1. Entre na pasta do repositório:
 
 ```
-cd project-todo-list/
+cd todo-list/
 ```
 
 2. Instale as dependências:
